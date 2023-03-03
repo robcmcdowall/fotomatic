@@ -234,6 +234,10 @@ header .mobile {
   background-color: white;
 }
 
+.feature .content {
+  padding: 2.5rem 0;
+}
+
 .feature .image-container {
   width: 90%;
   height: 65%;
