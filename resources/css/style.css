@@ -223,7 +223,7 @@ header .mobile {
 #features-section {
   display: flex;
   justify-content: space-between;
-  padding: 4rem 5%;
+  padding: 4rem 5% 2.875rem;
   background-color: #f3f3f3;
 }
 
