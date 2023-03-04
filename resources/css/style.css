@@ -86,6 +86,39 @@ header .mobile {
   display: none;
 }
 
+@media only screen and (min-width: 761px) and (max-width: 1024px) {
+  header .desktop {
+    display: none;
+  }
+
+  header .tablet {
+    display: block;
+  }
+
+  header .logo {
+    display: flex;
+  }
+
+  header nav ul {
+    align-items: center;
+  }
+
+  header nav a {
+    display: flex;
+  }
+
+  header .icon {
+    align-self: center;
+  }
+  
+  header .tablet .button {
+    padding: .1875rem .5rem;
+    background-color: #9dc20b;
+    line-height: 1.6;
+    color: white;
+  }
+}
+
 @media only screen and (max-width: 760px) {
   header .desktop {
     display: none;
