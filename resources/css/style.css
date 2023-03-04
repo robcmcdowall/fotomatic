@@ -284,6 +284,10 @@ header .mobile {
     padding: 0;
   }
 
+  .feature:nth-of-type(2n+1) {
+    background-color: #dbdbdb;
+  }
+
   .feature {
     margin: 0;
     padding: 1.25rem 1rem 0 1rem;
