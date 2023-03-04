@@ -87,6 +87,10 @@ header .mobile {
 }
 
 @media only screen and (min-width: 761px) and (max-width: 1024px) {
+  header .content {
+    padding: 1rem;
+  }
+  
   header .desktop {
     display: none;
   }
