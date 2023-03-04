@@ -195,6 +195,7 @@ header .mobile {
 
   #sign-up-cta .content {
     margin-top: 0;
+    width: 100%;
   }
 
   #sign-up-cta .email {
