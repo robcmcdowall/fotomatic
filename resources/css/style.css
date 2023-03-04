@@ -335,7 +335,7 @@ header .mobile {
   }
 
   #filters-section .content {
-    margin-bottom: 1rem;
+    margin: 0 1rem 1.5rem;
   }
 
   #filters-section .content h2 {
