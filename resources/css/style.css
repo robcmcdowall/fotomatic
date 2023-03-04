@@ -107,6 +107,10 @@ header .mobile {
     padding: 0;
   }
 
+  header .mobile a {
+    display: flex;
+  }
+
   header .mobile .button {
     padding: .1875rem .5rem;
     background-color: #9dc20b;
