@@ -324,6 +324,35 @@ nav li:nth-child(4) {
   color: #4a4a4a;
 }
 
+@media only screen and (min-width: 761px) and (max-width: 1024px) {
+
+  #features-section {
+    padding: 1.5rem .5rem;
+  }
+
+  .feature {
+    padding: 1.5rem 1.5rem;
+    margin: 0 .5rem;
+  }
+
+  .feature .content {
+    padding: 1rem 0 0 0;
+    text-align: left;
+  }
+
+  .feature h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.3;
+  }
+
+  .feature h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.4;
+  }
+}
+
 @media only screen and (max-width: 760px) {
   #features-section {
     flex-flow: column;
